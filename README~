@@ -1,0 +1,14 @@
+####################################################
+#     HttpServer - A simple realization of Http protocol
+#
+# Author: Bill Xia
+# Blog: http://ibillxia.github.com
+# Email: ibillxia@gmail.com
+####################################################
+
+This program is a simple HTTP server. It runs only on Linux/Unix plantforms.
+For more about HTTP and it's RFC documents, please refer to wiki: 
+http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+Copyright (C) 2011 Bill Xia (ibillxia@gmail.com) 
+
