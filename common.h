@@ -18,3 +18,6 @@
 #define BUF_SIZE 65536
 
 using namespace std;
+
+
+const char server_dir[] = "/home/bill/Temp/www";

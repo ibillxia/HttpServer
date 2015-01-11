@@ -1,0 +1,33 @@
+body {
+	font-family: "Arial", "Courier", "mono";
+	color:#FFFFFF;
+	background-color: #222;
+	font-size: 20px;
+	width: 80%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+a:link {
+	text-decoration:underline;
+	font-weight:normal;
+	color:#FFFF00;
+	font-size: 20px;
+}
+
+a:visited {
+	text-decoration:underline;
+	font-weight:normal;
+	color:#CCCCCC;
+	font-size: 20px;
+}
+
+a:hover   {text-decoration:underline;font-weight:normal;background:#FFFFFF;color:#0000FF}
+
+a:active {text-decoration:underline;font-weight:normal}
+
+.Undernote   {
+	font-family:"Avantgarde", "Helvetica", "Arial", "sans-serif";
+	font-size: 16px;
+	font-style: italic;
+}
